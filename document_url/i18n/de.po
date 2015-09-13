@@ -7,14 +7,14 @@ msgstr ""
 "Project-Id-Version: ODOO Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-03 23:50+0200\n"
-"PO-Revision-Date: 2015-09-03 23:51+0200\n"
+"PO-Revision-Date: 2015-09-13 11:46+0200\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.3\n"
-"Last-Translator: \n"
+"Last-Translator: Rudolf Schnapka <rs@techno-flex.de>\n"
 "Language: de\n"
 
 #. module: document_url
@@ -33,7 +33,7 @@ msgstr "URL hinzufügen"
 #: code:addons/document_url/static/src/xml/url.xml:6
 #, python-format
 msgid "Add URL..."
-msgstr "Url hinzufügen..."
+msgstr "URL hinzufügen..."
 
 #. module: document_url
 #: view:ir.attachment.add_url:0
